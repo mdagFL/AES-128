@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\dev\cpp\AES-128\AES-128-Application\main.cpp(144,23): warning C4018: '<': signed/unsigned mismatch
+  AES-128-Application.vcxproj -> C:\dev\cpp\AES-128\Debug\AES-128-Application.exe

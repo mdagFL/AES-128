@@ -1,0 +1,5 @@
+﻿  aes_128_common.cpp
+  aes_128_decrypt.cpp
+  aes_128_encrypt.cpp
+  aes_128_key_expansion.cpp
+  AES-128.vcxproj -> C:\dev\cpp\AES-128\AES-128\Release\x64\bin\AES-128.lib

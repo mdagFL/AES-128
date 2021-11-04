@@ -1,0 +1,2 @@
+﻿  main.cpp
+LINK : fatal error LNK1181: cannot open input file 'C:\dev\cpp\AES-128\AES-128\Release\x64\bin\AES-128.lib'
